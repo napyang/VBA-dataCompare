@@ -15,3 +15,7 @@ Compare 2 Excel files to check the difference and sync data to official setting 
 
 # Difference report
 ![image](https://github.com/napyang/VBA-dataCompare/raw/master/screenshots/DifferenceReport.png)
+
+#About
+
+Author: Nap Yang
